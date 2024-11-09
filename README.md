@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Developer<br>👯 I’m looking to collaborate on anyone<br>🤝 I’m looking for help with anyone<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>      How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
+🔭 I’m currently working on Full Stack Web Developer<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>👯How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliakbar-2001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbar-2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aliakbar-2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aliakbar-2001&icon=0&color=1)](https://visitcount.itsvg.in)
