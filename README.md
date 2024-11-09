@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=aliakbar-2001&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" width="150" height="25" />
 </p>
 
-
-<h2>About Me:</h2>
+About Me:
 <br>
 🔭 I’m currently working on Full Stack Web Developer<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>👯 How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
 
@@ -29,8 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbar-2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
