@@ -12,12 +12,12 @@
 </p>
 
 
-<h2>About Me:</h2>
+About Me:
 <br>
 🔭 I’m currently working on Full Stack Web Developer<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>👯How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
 
-
-<h2>Socials:</h2>
+<br>
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CipherMaestro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ali_akbar_rakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakib21) 
 
 # Tech Stack:
