@@ -5,7 +5,8 @@
 <h2 align="center">A Passionate Frontend Web Developer</h2></p>
 <!--<h3 align="center">Innovative coder crafting solutions that inspire</h3>-->
 <img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<br>
+<br>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aliakbar-2001&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" width="150" height="25" />
