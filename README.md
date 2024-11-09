@@ -4,7 +4,6 @@
 
 <h2 align="center">A Passionate Frontend Web Developer</h2></p>
 <!--<h3 align="center">Innovative coder crafting solutions that inspire</h3>-->
-<br>
 <img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 <br>
@@ -14,9 +13,9 @@
 </p>
 
 
-About Me:
+<h2>About Me:</h2>
 <br>
-🔭 I’m currently working on Full Stack Web Developer<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>👯How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
+🔭 I’m currently working on Full Stack Web Developer<br>🌱 I’m currently learning Frontend Web Developer<br>💬 Ask me about Web Based Querrys<br>👯 How to reach me : akbarhossen291@gmail.com<br>⚡ Fun fact : I turn late nights and caffeine into beautiful websites.
 
 
 ##  Socials:
